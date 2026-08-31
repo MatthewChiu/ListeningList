@@ -1,0 +1,54 @@
+name: Discord Bot Commands
+
+on:
+  repository_dispatch:
+    types: [discord-recommend, discord-add, discord-checkoff]
+
+jobs:
+  handle-command:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run agent action
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DISCORD_APPLICATION_ID: ${{ github.event.client_payload.application_id }}
+          DISCORD_INTERACTION_TOKEN: ${{ github.event.client_payload.interaction_token }}
+          USER_QUERY: ${{ github.event.client_payload.prompt }}
+          COMPOSER_NAME: ${{ github.event.client_payload.composer }}
+          PIECE_TITLE: ${{ github.event.client_payload.title }}
+        run: |
+          case "${{ github.event.action }}" in
+            discord-recommend) echo "AGENT_ACTION=recommend" >> "$GITHUB_ENV" ;;
+            discord-add) echo "AGENT_ACTION=add" >> "$GITHUB_ENV" ;;
+            discord-checkoff) echo "AGENT_ACTION=checkoff" >> "$GITHUB_ENV" ;;
+          esac
+
+      - name: Run agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DISCORD_APPLICATION_ID: ${{ github.event.client_payload.application_id }}
+          DISCORD_INTERACTION_TOKEN: ${{ github.event.client_payload.interaction_token }}
+          USER_QUERY: ${{ github.event.client_payload.prompt }}
+          COMPOSER_NAME: ${{ github.event.client_payload.composer }}
+          PIECE_TITLE: ${{ github.event.client_payload.title }}
+        run: python agent.py
+
+      - name: Commit updated pages & markdown
+        run: |
+          git config --global user.name "classical-bot[bot]"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add docs/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update via Discord: ${{ github.event.action }}"
+          git push

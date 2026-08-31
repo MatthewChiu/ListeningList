@@ -1,1 +1,37 @@
+name: Daily Recommendation
 
+on:
+  schedule:
+    - cron: '0 13 * * *'  # 9am US Eastern (UTC-4); adjust for your timezone/DST
+  workflow_dispatch: {}
+
+jobs:
+  recommend:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate and post recommendation
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          AGENT_ACTION: recommend
+        run: python agent.py
+
+      - name: Commit updated pages & markdown
+        run: |
+          git config --global user.name "classical-bot[bot]"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add docs/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Daily recommendation"
+          git push
