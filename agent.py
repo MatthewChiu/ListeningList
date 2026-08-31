@@ -3,10 +3,12 @@ import glob
 import json
 import re
 from datetime import datetime
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-model = genai.GenerativeModel('gemini-1.5-flash')
+# Fetch API key safely
+api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
+client = genai.Client(api_key=api_key)
 
 DOCS_DIR = "docs"
 COMPOSERS_DIR = os.path.join(DOCS_DIR, "composers")
@@ -63,7 +65,13 @@ def generate_recommendation(prompt_override=None):
         }}
         """
 
-    response = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
+    response = client.models.generate_content(
+        model='gemini-2.5-flash',
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            response_mime_type="application/json",
+        ),
+    )
     return json.loads(response.text)
 
 def check_off_piece(composer_name, piece_title):
