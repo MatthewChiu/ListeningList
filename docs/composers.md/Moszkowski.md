@@ -1,4 +1,8 @@
 # Moszkowsi Listenings
 
 ## Piano Works
--[ ] Piano Concerto in E major
+- [x] Piano Concerto in E major
+    8/29/26
+- [x] Troie Etudes de Concert, Op. 24
+    8/31/26
+    II. Moderato Asai, slaps
