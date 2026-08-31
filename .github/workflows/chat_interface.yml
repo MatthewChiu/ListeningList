@@ -28,13 +28,7 @@ jobs:
           ISSUE_TITLE: ${{ github.event.issue.title }}
         run: |
           if [[ "$ISSUE_TITLE" == *"/listened"* ]]; then
-            # Format: /listened Beethoven | Symphony No. 5
-            python -c "
-            import os, agent
-            parts = os.environ['ISSUE_BODY'].split('|')
-            if len(parts) >= 2:
-                agent.check_off_piece(parts[0].strip(), parts[1].strip())
-            "
+            python -c "import os, agent; parts = os.environ.get('ISSUE_BODY', '').split('|'); agent.check_off_piece(parts[0].strip(), parts[1].strip()) if len(parts) >= 2 else None"
           else
             export AGENT_ACTION="recommend"
             export USER_QUERY="$ISSUE_TITLE $ISSUE_BODY"
@@ -52,4 +46,4 @@ jobs:
       - name: Close Issue with Response
         uses: peter-evans/close-issue@v3
         with:
-          comment: "✅ Recommendation generated and GitHub Pages updated!"
+          comment: "Recommendation generated and GitHub Pages updated!"
