@@ -4,7 +4,7 @@ compatibility_date = "2024-09-23"
 
 # Non-secret config. GITHUB_REPO is the "owner/repo" this bot commits to.
 [vars]
-GITHUB_REPO = "your-username/your-repo"
+GITHUB_REPO = "MatthewChiu/ListeningList"
 
 # Secrets (do NOT put these here) - set them with:
 #   wrangler secret put DISCORD_PUBLIC_KEY

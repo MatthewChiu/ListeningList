@@ -6,3 +6,4 @@
 - [x] Troie Etudes de Concert, Op. 24
     8/31/26
     II. Moderato Asai, slaps
+- [ ] Trois Morceux Poetique, Op. 73
