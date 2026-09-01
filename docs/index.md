@@ -7,9 +7,6 @@ Welcome to your daily listening log!
 
 ---
 
-### Latest Recommendation
-*Run `/recommend` in GitHub Issues to trigger today's piece!*
-
 ### 🌟 Latest Recommendation (2026-09-01)
 **Sergei Bortkiewicz** — *Piano Concerto No. 1 in B-flat major, Op. 16*
 
