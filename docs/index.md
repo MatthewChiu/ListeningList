@@ -10,6 +10,6 @@ Welcome to your daily listening log!
 *Run `/recommend` in GitHub Issues to trigger today's piece!*
 
 ### 🌟 Latest Recommendation (2026-09-01)
-**Johannes Brahms** — *Symphony No. 3 in F major, Op. 90*
+**Sergei Bortkiewicz** — *Piano Concerto No. 1 in B-flat major, Op. 16*
 
-> Brahms's Third Symphony offers a masterful blend of heroic vigor and intimate nostalgia, perfectly showcasing his lush romantic orchestrations. Its famous third movement provides a deeply poetic, bittersweet melody that continues to resonate across generations of music lovers.
+> If you enjoy the lush Romanticism and glittering virtuosity of Moszkowski, Bortkiewicz's First Concerto offers a similarly soaring melodic sweep and rich orchestration. Pay special attention to the heroic first movement, where breathtaking piano passages seamlessly blend with grand, late-Romantic orchestral themes.
