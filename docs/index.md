@@ -3,6 +3,7 @@
 Welcome to your daily listening log!
 
 - [Moszkowski Page](./composers/Moszkowski.md)
+- [Sergei Bortkiewicz Page](./composers/Sergei_Bortkiewicz.md)
 
 ---
 
