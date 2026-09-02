@@ -7,7 +7,7 @@ Welcome to your daily listening log!
 
 ---
 
-### 🌟 Latest Recommendation (2026-09-01)
+### 🌟 Latest Recommendation (2026-09-02)
 **Sergei Bortkiewicz** — *Piano Concerto No. 1 in B-flat Major, Op. 16*
 
-> This lush, late-Romantic masterpiece echoes the sweeping lyricism and dramatic virtuosic flair of Rachmaninoff and Tchaikovsky. Listening to it offers a captivating rediscovery of an unfairly neglected gem that radiates warmth, passion, and glittering pianism.
+> Sergei Bortkiewicz's First Piano Concerto is a gloriously lush, late-Romantic masterpiece overflowing with rich melodies and heroic virtuosity reminiscent of Rachmaninoff and Tchaikovsky. Listening to this neglected gem offers a captivating journey through passionate, sweeping piano writing that deserves a prominent place in the concert repertoire.
