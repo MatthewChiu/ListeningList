@@ -18,3 +18,7 @@
 ### 2026-09-03 — Sergei Bortkiewicz: Piano Concerto No. 1 in B-flat Major, Op. 16
 - **Insight:** Sergei Bortkiewicz's First Piano Concerto is a hidden gem of late Romanticism, overflowing with lush melodies and dramatic virtuosity reminiscent of Rachmaninoff. Listeners should pay special attention to the passionate opening movement, where sweeping orchestral themes seamlessly intertwine with dazzling keyboard passages.
 - **Key Movement:** I. Lento - Allegro drammatico
+
+### 2026-09-03 — Sergei Lyapunov: Piano Concerto No. 1 in E-flat minor, Op. 4
+- **Insight:** This obscure late-Russian Romantic masterpiece shares Bortkiewicz's penchant for sweeping, passionately lyrical melodies and glittering Lisztian keyboard virtuosity. Pay special attention to the expansive first movement, where lush orchestral textures frame intensely dramatic piano cadenzas.
+- **Key Movement:** I. Allegro con brio
