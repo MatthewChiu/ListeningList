@@ -4,6 +4,7 @@ Welcome to your daily listening log!
 
 - [Moszkowski Page](./composers/Moritz_Moszkowski.md)
 - [Sergei Bortkiewicz Page](./composers/Sergei_Bortkiewicz.md)
+- [Sergei Lyapunov Page](./composers/Sergei_Lyapunov.md)
 
 ---
 
