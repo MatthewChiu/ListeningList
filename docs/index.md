@@ -7,7 +7,7 @@ Welcome to your daily listening log!
 
 ---
 
-### 🌟 Latest Recommendation (2026-09-03)
-**Sergei Lyapunov** — *Piano Concerto No. 1 in E-flat minor, Op. 4*
+### 🌟 Latest Recommendation (2026-09-04)
+**Antonín Dvořák** — *Cello Concerto in B minor, Op. 104*
 
-> This obscure late-Russian Romantic masterpiece shares Bortkiewicz's penchant for sweeping, passionately lyrical melodies and glittering Lisztian keyboard virtuosity. Pay special attention to the expansive first movement, where lush orchestral textures frame intensely dramatic piano cadenzas.
+> Widely considered the supreme masterpiece of the cello repertoire, this work combines rich Bohemian folk melodies with profound emotional depth. Listening to it today offers a powerful reflection on longing, nostalgia, and triumph over personal grief.

@@ -22,3 +22,7 @@
 ### 2026-09-03 — Sergei Lyapunov: Piano Concerto No. 1 in E-flat minor, Op. 4
 - **Insight:** This obscure late-Russian Romantic masterpiece shares Bortkiewicz's penchant for sweeping, passionately lyrical melodies and glittering Lisztian keyboard virtuosity. Pay special attention to the expansive first movement, where lush orchestral textures frame intensely dramatic piano cadenzas.
 - **Key Movement:** I. Allegro con brio
+
+### 2026-09-04 — Antonín Dvořák: Cello Concerto in B minor, Op. 104
+- **Insight:** Widely considered the supreme masterpiece of the cello repertoire, this work combines rich Bohemian folk melodies with profound emotional depth. Listening to it today offers a powerful reflection on longing, nostalgia, and triumph over personal grief.
+- **Key Movement:** I. Allegro
