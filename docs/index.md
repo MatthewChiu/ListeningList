@@ -8,7 +8,7 @@ Welcome to your daily listening log!
 
 ---
 
-### 🌟 Latest Recommendation (2026-09-04)
-**Antonín Dvořák** — *Cello Concerto in B minor, Op. 104*
+### 🌟 Latest Recommendation (2026-09-05)
+**Johannes Brahms** — *Symphony No. 3 in F major, Op. 90*
 
-> Widely considered the supreme masterpiece of the cello repertoire, this work combines rich Bohemian folk melodies with profound emotional depth. Listening to it today offers a powerful reflection on longing, nostalgia, and triumph over personal grief.
+> This symphony offers a masterful blend of heroic passion and introspective warmth, perfect for a moment of deep reflection. Its famous third movement features one of the most hauntingly beautiful melodies in all of classical literature.
