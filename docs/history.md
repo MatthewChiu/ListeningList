@@ -30,3 +30,7 @@
 ### 2026-09-05 — Johannes Brahms: Symphony No. 3 in F major, Op. 90
 - **Insight:** This symphony offers a masterful blend of heroic passion and introspective warmth, perfect for a moment of deep reflection. Its famous third movement features one of the most hauntingly beautiful melodies in all of classical literature.
 - **Key Movement:** III. Poco allegretto
+
+### 2026-09-07 — Gustav Mahler: Symphony No. 2 "Resurrection"
+- **Insight:** This monumental work offers an unforgettable journey from deep existential grief to glorious spiritual rebirth. Its overwhelming final movement featuring chorus and full orchestra provides one of the most transcendent and cathartic experiences in all of classical music.
+- **Key Movement:** V. Im Tempo des Scherzos. Wild herausfahrend
