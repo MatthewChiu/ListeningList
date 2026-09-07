@@ -9,6 +9,6 @@ Welcome to your daily listening log!
 ---
 
 ### 🌟 Latest Recommendation (2026-09-07)
-**Sergei Bortkiewicz** — *Piano Concerto No. 1 in B-flat Major, Op. 16*
+**Alexander Scriabin** — *Piano Concerto in F-sharp minor, Op. 20*
 
-> If you loved the romantic flair and glittering virtuosity of Moszkowski, Bortkiewicz's masterpiece delivers the same electrifying sweep and lush melody. Pay close attention to the heroic first movement, where breathtaking piano passages soar over rich, late-Romantic orchestration.
+> If you enjoy the lush Romantic piano repertoire of Lyapunov and Bortkiewicz, Scriabin's early masterpiece offers deeply poetic themes and exquisite Chopin-esque delicate fireworks. Pay special attention to the second movement's serene theme and variations, which showcase Scriabin's signature dreamy harmonic colors.
