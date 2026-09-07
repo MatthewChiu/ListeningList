@@ -34,3 +34,7 @@
 ### 2026-09-07 — Gustav Mahler: Symphony No. 2 "Resurrection"
 - **Insight:** This monumental work offers an unforgettable journey from deep existential grief to glorious spiritual rebirth. Its overwhelming final movement featuring chorus and full orchestra provides one of the most transcendent and cathartic experiences in all of classical music.
 - **Key Movement:** V. Im Tempo des Scherzos. Wild herausfahrend
+
+### 2026-09-07 — Sergei Bortkiewicz: Piano Concerto No. 1 in B-flat Major, Op. 16
+- **Insight:** If you loved the romantic flair and glittering virtuosity of Moszkowski, Bortkiewicz's masterpiece delivers the same electrifying sweep and lush melody. Pay close attention to the heroic first movement, where breathtaking piano passages soar over rich, late-Romantic orchestration.
+- **Key Movement:** I. Lento - Allegro drammatico

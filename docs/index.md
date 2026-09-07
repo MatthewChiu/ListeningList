@@ -9,6 +9,6 @@ Welcome to your daily listening log!
 ---
 
 ### 🌟 Latest Recommendation (2026-09-07)
-**Gustav Mahler** — *Symphony No. 2 "Resurrection"*
+**Sergei Bortkiewicz** — *Piano Concerto No. 1 in B-flat Major, Op. 16*
 
-> This monumental work offers an unforgettable journey from deep existential grief to glorious spiritual rebirth. Its overwhelming final movement featuring chorus and full orchestra provides one of the most transcendent and cathartic experiences in all of classical music.
+> If you loved the romantic flair and glittering virtuosity of Moszkowski, Bortkiewicz's masterpiece delivers the same electrifying sweep and lush melody. Pay close attention to the heroic first movement, where breathtaking piano passages soar over rich, late-Romantic orchestration.
