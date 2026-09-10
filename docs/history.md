@@ -46,3 +46,7 @@
 ### 2026-09-07 — Sergei Bortkiewicz: Piano Concerto No. 1 in B-flat major, Op. 16
 - **Insight:** This masterpiece carries forward the lush, passionate Romantic spirit seen in Moszkowski and Lyapunov with its rich melodies and brilliant piano technique. Listen closely to the first movement's dramatic opening theme, where the piano's cascading arpeggios soar above expansive orchestral textures.
 - **Key Movement:** I. Lento - Allegro drammatico
+
+### 2026-09-10 — Sergei Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18
+- **Insight:** Composed as Rachmaninoff emerged from a deep clinical depression, this masterpiece stands as a powerful testament to emotional resilience and artistic triumph. Its lush, sweeping melodies offer a profoundly soothing yet dramatic listening experience that resonates deeply with modern ears.
+- **Key Movement:** II. Adagio sostenuto
