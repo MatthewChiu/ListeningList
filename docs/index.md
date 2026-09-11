@@ -8,7 +8,7 @@ Welcome to your daily listening log!
 
 ---
 
-### 🌟 Latest Recommendation (2026-09-10)
-**Sergei Rachmaninoff** — *Piano Concerto No. 2 in C minor, Op. 18*
+### 🌟 Latest Recommendation (2026-09-11)
+**Gustav Mahler** — *Symphony No. 5 in C-sharp minor*
 
-> Composed as Rachmaninoff emerged from a deep clinical depression, this masterpiece stands as a powerful testament to emotional resilience and artistic triumph. Its lush, sweeping melodies offer a profoundly soothing yet dramatic listening experience that resonates deeply with modern ears.
+> This sublime work offers a moment of profound tranquility and emotional depth, famously featuring an Adagietto written as a love letter to Mahler's wife Alma. Its lush string orchestrations and tender harp accompaniment provide a perfect meditative escape for today's fast-paced world.
