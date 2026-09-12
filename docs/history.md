@@ -54,3 +54,7 @@
 ### 2026-09-11 — Gustav Mahler: Symphony No. 5 in C-sharp minor
 - **Insight:** This sublime work offers a moment of profound tranquility and emotional depth, famously featuring an Adagietto written as a love letter to Mahler's wife Alma. Its lush string orchestrations and tender harp accompaniment provide a perfect meditative escape for today's fast-paced world.
 - **Key Movement:** IV. Adagietto. Sehr langsam
+
+### 2026-09-12 — Johannes Brahms: Symphony No. 3 in F major, Op. 90
+- **Insight:** This movement offers a profoundly melancholic yet soothing melody that showcases Brahms's masterclass in orchestration and emotional subtlety. Listening to it today provides a perfect, contemplative refuge from the fast pace of modern life.
+- **Key Movement:** III. Poco allegretto
