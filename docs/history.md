@@ -58,3 +58,7 @@
 ### 2026-09-12 — Johannes Brahms: Symphony No. 3 in F major, Op. 90
 - **Insight:** This movement offers a profoundly melancholic yet soothing melody that showcases Brahms's masterclass in orchestration and emotional subtlety. Listening to it today provides a perfect, contemplative refuge from the fast pace of modern life.
 - **Key Movement:** III. Poco allegretto
+
+### 2026-09-13 — Johann Sebastian Bach: Cello Suite No. 1 in G major, BWV 1007
+- **Insight:** This iconic work showcases the profound emotional depth achievable through a single solo instrument. Its timeless elegance and rhythmic balance offer a moment of grounding clarity in our modern, chaotic lives.
+- **Key Movement:** I. Prélude
