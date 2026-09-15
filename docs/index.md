@@ -8,7 +8,7 @@ Welcome to your daily listening log!
 
 ---
 
-### 🌟 Latest Recommendation (2026-09-13)
-**Johann Sebastian Bach** — *Cello Suite No. 1 in G major, BWV 1007*
+### 🌟 Latest Recommendation (2026-09-15)
+**Antonín Dvořák** — *Cello Concerto in B minor, Op. 104*
 
-> This iconic work showcases the profound emotional depth achievable through a single solo instrument. Its timeless elegance and rhythmic balance offer a moment of grounding clarity in our modern, chaotic lives.
+> Dvořák’s Cello Concerto stands as the pinnacle of the Romantic cello repertoire, blending rich Bohemian folk melodies with sweeping orchestral drama. Listening to it today offers a deeply moving exploration of longing, lyricism, and virtuosity that speaks directly to the human soul.
